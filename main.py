@@ -1,3 +1,10 @@
+"""
+Programme fait par Albert Cloutier
+groupe 406
+jeu de devinette
+"""
+
+
 from random import randint
 continuer = 1
 while (continuer == 1):
